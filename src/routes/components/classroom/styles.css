@@ -1,0 +1,5 @@
+.classroom-image {
+  object-fit: cover;
+  cursor: pointer;
+  width: 100%;
+}
