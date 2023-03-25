@@ -1,4 +1,4 @@
-# Qwik App - an app for german language tutor ⚡️
+# Qwik App - an app for German language tutor ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
